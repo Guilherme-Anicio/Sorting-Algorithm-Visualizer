@@ -1,0 +1,12 @@
+:root {
+    --options-bar-color: black;
+    --main-background-color: rgb(62, 62, 62);
+}
+
+body {
+    background-color: var(--main-background-color);
+}
+
+#options-bar {
+    background-color: var(--options-bar-color);
+}
